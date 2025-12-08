@@ -4,7 +4,7 @@ _**First Prize**_ in the 2023 "ICBC Cup" National College Financial Creative Des
 # 🌆 Heritage City BlockTree
 
 > A tree-structured blockchain + game resource manager for digital heritage sandboxes.  
-> 用树形区块链管理非遗数字藏品 & 沙盘城市资源的 C++ 小引擎。
+> A small C++ engine for managing intangible cultural heritage (ICH) digital collections & sandbox city resources via a tree-structured blockchain.
 
 [![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://isocpp.org/)
 [![JSON](https://img.shields.io/badge/JSON-Poco-yellowgreen.svg)](https://pocoproject.org/)
