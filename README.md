@@ -1,5 +1,5 @@
-# 2023-ICBC_Cup-National-College-Financial-Technology-Creative-Design-Contest
-_**First Prize**_ in the 2023 "ICBC Cup" National College Financial Technology Creative Design Contest _**(Provincial)**_
+# 2023-ICBC_Cup-National-College-Financial-Technology-Innovation-Contest
+_**First Prize**_ in the 2023 "ICBC Cup" National College Financial Technology Innovation Contest _**(Provincial)**_
 
 # 🌆 Heritage City BlockTree
 
